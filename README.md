@@ -44,17 +44,6 @@ Each `.py` file in this repository fetches specific data from the web and stores
 ✅ Improve script efficiency.  
 ✅ Expand scraping to different websites.  
 
----
-
-## 📬 Contact  
-This is a personal project, but I'm open to feedback and collaboration! Feel free to create a pull request or reach out. 😊  
-
-<p align="center">
-    <a href="https://twitter.com/kushang97157764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushang" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/kushang-s-388959268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushang" height="30" width="40" /></a>
-    <a href="https://instagram.com/bhootiya.renderr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhootiya.renderr" height="30" width="40" /></a>
-    <a href="mailto:kushangshah41@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Send Mail to Kushang" height="30" width="40" /></a>
-</p>
 
 ---
 
